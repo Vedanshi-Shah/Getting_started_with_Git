@@ -1,1 +1,2 @@
 git session
+This line is causing error in our code
