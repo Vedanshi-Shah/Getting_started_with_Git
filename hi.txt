@@ -1,1 +1,3 @@
 git session
+This line is causing error in the code 
+and is unwanted.
